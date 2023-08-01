@@ -1,1 +1,1 @@
-# DLDSimulator
+This is a project made with JAVA and JAVA GUI. This program can draw basic gates. This simulator can wire up these gates. It can evaluate any kind of complex circuit with these basic gates. It can also show corresponding output of the evaluated circuit showing flash in LED light. User can delete any gate using delete button. The whole frame can be cleared using clear button.
