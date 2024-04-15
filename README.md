@@ -81,10 +81,10 @@ IDE: NetBeans
 Documentation
 Final Report: A project report is written to introduce the function of the software and to introduce all buttons and their actions.
 Poster Presentation: A attractive poster has been made to introduce and give clear concept of the simulator.
-Features
-This program can draw basic gates.
-This program can wire up these gates.
-It can evaluate any kind of complex circuits with these basic gates.
-It can show corresponding output of the evaluated circuit by showing flash in LED lights.
-User can delete any gate using the delete button.
-The whole frame can be cleared using clear button.
+Features:
+ This program can draw basic gates.
+ This program can wire up these gates.
+ It can evaluate any kind of complex circuits with these basic gates.
+ It can show corresponding output of the evaluated circuit by showing flash in LED lights.
+ User can delete any gate using the delete button.
+ The whole frame can be cleared using clear button.
